@@ -1,2 +1,5 @@
-# Oblygin-Projects
-Repository for MIIGAIK projects with Daniil Romanovich
+# University
+
+доброе утро / доброго дня / доброго вечера / доброй ночи, Даниил Романович !! :)
+
+да прибудет с вами сила
